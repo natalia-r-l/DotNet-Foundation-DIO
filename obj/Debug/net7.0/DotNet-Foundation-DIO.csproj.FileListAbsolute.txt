@@ -1,0 +1,14 @@
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\bin\Debug\net7.0\DotNet-Foundation-DIO.exe
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\bin\Debug\net7.0\DotNet-Foundation-DIO.deps.json
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\bin\Debug\net7.0\DotNet-Foundation-DIO.runtimeconfig.json
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\bin\Debug\net7.0\DotNet-Foundation-DIO.dll
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\bin\Debug\net7.0\DotNet-Foundation-DIO.pdb
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\obj\Debug\net7.0\DotNet-Foundation-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\obj\Debug\net7.0\DotNet-Foundation-DIO.AssemblyInfoInputs.cache
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\obj\Debug\net7.0\DotNet-Foundation-DIO.AssemblyInfo.cs
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\obj\Debug\net7.0\DotNet-Foundation-DIO.csproj.CoreCompileInputs.cache
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\obj\Debug\net7.0\DotNet-Foundation-DIO.dll
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\obj\Debug\net7.0\refint\DotNet-Foundation-DIO.dll
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\obj\Debug\net7.0\DotNet-Foundation-DIO.pdb
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\obj\Debug\net7.0\DotNet-Foundation-DIO.genruntimeconfig.cache
+C:\Users\resin\Development\DotNet\DotNet-Foundation-DIO\obj\Debug\net7.0\ref\DotNet-Foundation-DIO.dll
